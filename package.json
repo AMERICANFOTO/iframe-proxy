@@ -1,7 +1,7 @@
 {
   "name": "iframe-proxy",
   "version": "1.0.0",
-  "description": "Proxy para forzar iframe",
+  "description": "Proxy para iframe",
   "main": "proxy.js",
   "scripts": {
     "start": "node proxy.js"
