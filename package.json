@@ -1,0 +1,14 @@
+{
+  "name": "iframe-proxy",
+  "version": "1.0.0",
+  "description": "Proxy para forzar iframe",
+  "main": "proxy.js",
+  "scripts": {
+    "start": "node proxy.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module"
+}
