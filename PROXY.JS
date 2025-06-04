@@ -5,7 +5,7 @@ const PORT = process.env.PORT || 3000;
 
 // 👉 Lista blanca de URLs permitidas
 const allowedOrigins = [
-  'https://formulario-alternativo.com',
+  'https://wormhole.app/',
   'https://otroform.example.com'
 ];
 
