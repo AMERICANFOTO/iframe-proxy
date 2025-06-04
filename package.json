@@ -1,15 +1,14 @@
 {
   "name": "iframe-proxy",
   "version": "1.0.0",
-  "description": "Proxy personalizado para iframes",
+  "description": "Proxy reverso completo para iframes",
   "main": "src/proxy.js",
   "scripts": {
     "start": "node src/proxy.js"
   },
   "dependencies": {
     "express": "^4.18.2",
-    "node-fetch": "^3.3.2"
+    "http-proxy-middleware": "^2.0.6"
   },
   "type": "module"
 }
-
